@@ -1,0 +1,38 @@
+.card {
+  /*margin auto will center the element by giving equal margin each side*/
+  margin: auto;
+  padding: 15px;
+  width: 250px;
+  border: 2px solid #ddd;
+  /*border radius will curve the bordes*/
+  border-radius: 10px;
+  box-shadow: 2px 2px white;
+  background: rgb(red, green, blue);
+  background-color: crimson;
+}
+h1 {
+  margin: 0 0 15px;
+  padding: 5px 35px;
+  border: 2px solid #ddd;
+  border-radius: 10px;
+  color: rgb(5, 0, 0);
+  font-size: 2rem;
+  text-align: center;
+  background-color: rgba(241, 199, 9, 0.959);
+}
+.info {
+  margin: auto;
+  padding: 10px;
+  border: 2px solid #ddd;
+  border-radius: 15px;
+  background-color: #ebe700;
+  color: rgb(15, 14, 14);
+  font-size: 0.9em;
+}
+
+#list-items span {
+  font-weight: bold;
+}
+.indent {
+  padding-left: 150px;
+}
